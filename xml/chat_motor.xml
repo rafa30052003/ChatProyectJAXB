@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chat>
+    <name>motor</name>
+    <messages>
+        <user>pedro</user>
+        <text>hola</text>
+        <date>2023-10-06T14:44:40.242+02:00</date>
+    </messages>
+    <messages>
+        <user>pedro</user>
+        <text>mundo</text>
+        <date>2023-10-06T14:44:40.437+02:00</date>
+    </messages>
+    <filename>xml/chat_motor.xml</filename>
+</chat>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<myusers>
+    <User>
+        <entryTime>2023-09-29T09:18:44.056+02:00</entryTime>
+        <nickname>pepe</nickname>
+    </User>
+    <User>
+        <entryTime>2023-09-29T09:57:56.339+02:00</entryTime>
+        <nickname>juan</nickname>
+    </User>
+    <User>
+        <entryTime>2023-10-02T14:46:29.008+02:00</entryTime>
+        <nickname>lolo</nickname>
+    </User>
+    <User>
+        <entryTime>2023-10-02T16:27:35.939+02:00</entryTime>
+        <nickname>antonio</nickname>
+    </User>
+</myusers>

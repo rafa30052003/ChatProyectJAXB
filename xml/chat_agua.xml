@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chat>
+    <messages>
+        <user>lolo</user>
+        <text>hola </text>
+<<<<<<< HEAD
+        <date>2023-10-04T11:25:01.192+02:00</date>
+=======
+        <date>2023-10-04T12:50:41.554+02:00</date>
+>>>>>>> 3ed6c5c769d1e770fa4e3ba7838d452b5b586bfd
+    </messages>
+    <messages>
+        <user>antonio</user>
+        <text>hola </text>
+<<<<<<< HEAD
+        <date>2023-10-04T11:25:01.202+02:00</date>
+=======
+        <date>2023-10-04T12:50:41.561+02:00</date>
+>>>>>>> 3ed6c5c769d1e770fa4e3ba7838d452b5b586bfd
+    </messages>
+    <users>
+        <entryTime>2023-10-02T14:46:29.008+02:00</entryTime>
+        <nickname>lolo</nickname>
+    </users>
+    <users>
+        <entryTime>2023-10-02T16:27:35.939+02:00</entryTime>
+        <nickname>antonio</nickname>
+    </users>
+    <name>agua</name>
+    <filename>xml/chat_agua.xml</filename>
+</chat>

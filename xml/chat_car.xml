@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chat>
+    <messages>
+        <user>lolo</user>
+        <text>hola </text>
+        <date>2023-10-04T10:57:35.113+02:00</date>
+    </messages>
+    <users>
+        <entryTime>2023-10-02T14:46:29.008+02:00</entryTime>
+        <nickname>lolo</nickname>
+    </users>
+    <name>car</name>
+    <filename>chat_car.xml</filename>
+</chat>

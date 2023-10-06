@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chat>
+    <messages>
+        <user>lolo</user>
+        <text>hola </text>
+        <date>2023-10-04T10:59:42.936+02:00</date>
+    </messages>
+    <messages>
+        <user>antonio</user>
+        <text>hola </text>
+        <date>2023-10-04T10:59:42.943+02:00</date>
+    </messages>
+    <users>
+        <entryTime>2023-10-02T14:46:29.008+02:00</entryTime>
+        <nickname>lolo</nickname>
+    </users>
+    <users>
+        <entryTime>2023-10-02T16:27:35.939+02:00</entryTime>
+        <nickname>antonio</nickname>
+    </users>
+    <name>bici</name>
+    <filename>chat_bici.xml</filename>
+</chat>
